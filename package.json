@@ -1,0 +1,23 @@
+{
+	"name": "unity3dasyncawaitutil",
+	"displayName": "Unity3dAsyncAwaitUtil",
+	"version": "0.1.2",
+	"unity": "2021.2",
+	"author": {
+		"name": "modesttree",
+		"url": "https://github.com/modesttree"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Potentii/Unity3dAsyncAwaitUtil.git"
+	},
+	"keywords": [
+		"async",
+		"await",
+		"ienumerator",
+		"yield",
+		"coroutine"
+	],
+	"description": "Unity3dAsyncAwaitUtil wrapped in a UPM package, for the Unity3dAsyncAwaitUtil repo itself check out https://github.com/modesttree/Unity3dAsyncAwaitUtil"
+}
